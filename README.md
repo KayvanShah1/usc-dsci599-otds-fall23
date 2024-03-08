@@ -17,7 +17,7 @@
 | [Homework 1](/hw1) | `Dynamic Programming`, `Local Search`, `K-Means Clustering`, `Expectation Maximization`, and `FastMAP` |
 | [Homework 2](/hw2) | `Guassian Mixture Models (GMMs)`, `Multivariate Guassian`, `Principal Component Analysis (PCA)`, `Dimensionality Reduction`, `Perceptron Learning Algorithm` and `Constraint Satisfaction Problems (CSPs)`|
 | [Homework 3](/hw3) | `k-consistency`, `Backtracking search`, `Look-Ahead`, and `Dynamic Variable/Value Ordering` in `CSPs`, `Simple Temporal Problems (STPs)`, and `Bayesian Networks` |
-| [Homework 4](/hw4) | `Dynamic Beief Networks (DBNs)`, `Markov Models (MMs)`, `Hidden Markov Models (HMMs)`, `Weighted Constraint Satisfaction Problems (WCSPs)`, `Graph Theory`, `Feed-Forward Neural Networks` and `Polynomial Identity Checking` |
+| [Homework 4](/hw4) | `Dynamic Belief Networks (DBNs)`, `Markov Models (MMs)`, `Hidden Markov Models (HMMs)`, `Weighted Constraint Satisfaction Problems (WCSPs)`, `Graph Theory`, `Feed-Forward Neural Networks` and `Polynomial Identity Checking` |
 | --- | --- |
 | [Final Project](/project) | [Exploring Adversrial learning strategies for Sequence Labeling Tasks](https://github.com/KayvanShah1/pos-tagging-hmm-adversarial-learning) |
 
