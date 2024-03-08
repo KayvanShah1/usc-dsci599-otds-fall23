@@ -1,4 +1,5 @@
 # DSCI 599 - Optimization Techniques for Data Science - Fall 2023 - USC
+This repository contains solutions to assignments, including programming tasks, project updates, and final project reports. Each assignment's solution is organized in separate folders, and clear instructions are provided for submission.
 
 > [!TIP]
 > Before exploring the materials, take a moment to review the license and disclaimer for responsible utilization. The repository covers various topics, providing valuable insights into Optimization Techiniques and solution to assignments.
@@ -7,6 +8,9 @@
 - Course Name: DSCI 599 - Optimization Techniques for Data Science
 - Instructor: Prof. Satish Thittamaranahalli Ka
 - Semester: Fall 2023
+
+### About
+A 4-unit course designed to explore various optimization techniques drawn from algorithms, artificial intelligence, machine learning, and mathematics. The course aims to provide students with a comprehensive understanding of optimization algorithms and their applications in solving problems relevant to data science. Topics covered include linear programming, convex programming, machine learning paradigms (supervised, unsupervised, reinforcement learning), graph theory, heuristic search, constraint programming, and more.
 
 > [!CAUTION]
 > Please note that this repository serves as a reference guide and should be utilized as a tool for learning and comprehension. It's paramount to refrain from engaging in any activities associated with plagiarism. Embrace the wealth of knowledge herein to enhance your understanding and augment your skill set in the field of machine learning algorithms.
